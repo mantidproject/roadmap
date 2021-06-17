@@ -1,6 +1,6 @@
 # Mantid Project Roadmap
 
-This repository is intended to communicate the [roadmap](https://github.com/mantidproject/projects/1)
+This repository is intended to communicate the [roadmap](https://github.com/mantidproject/roadmap/projects/1)
 for [Mantid](https://github.com/mantidproject/mantid).
 For more information on how the roadmap interacts with the collaboration please see the
 [governance](https:/github.com/mantidproject/governance/blob/main/governance.md) document.
